@@ -1,3 +1,5 @@
+### Exercise
+
 We are inviting you to assess your knowledge and solve the task below. Please pay attention to requirements for technology, code, your solution submission and don’t forget to visit the “bonus” section! You will need to upload your solution to Github. Good luck and feel free to be as creative as you think you should be!
 TASK 
 Description
